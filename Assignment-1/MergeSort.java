@@ -47,7 +47,7 @@ public class MergeSort {
 
     public static void main(String[] args) {
 
-        String filePath = "/home/nisl4/archive/social_media_usage.csv";
+        String filePath = "social_media_usage.csv";
 
         try {
             BufferedReader br = new BufferedReader(new FileReader(filePath));
