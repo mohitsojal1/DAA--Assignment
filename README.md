@@ -53,19 +53,4 @@ java QuickSort
 ```
 You'll be prompted for a CSV filename, a sort key, and how many top results to display. See `Output.txt` for a sample run.
 
-## 📌 Assignment 3
-
-Work in progress — file currently empty.
-
-## 🛠 Requirements
-
-- Java (JDK 8+)
-- No external dependencies — just `javac`/`java` from the command line
-
-## 👤 Author
-
-Mohit Sojal
-
-## 📄 License
-
-Add a license (e.g. MIT) if you'd like others to reuse this code.
+ to reuse this code.
